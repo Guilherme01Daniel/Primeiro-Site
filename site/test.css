@@ -1,0 +1,21 @@
+h1{
+    color:red;
+}
+div {
+margin: 10px;
+    border: 1px solid black;
+    width: 100px;
+    color: green;
+    height: 100px;
+    text-align: center;
+
+}
+div:hover{
+    background-color: blue;
+}
+body{
+    display: flex;
+}
+#div3{
+    background-color: coral;
+}
